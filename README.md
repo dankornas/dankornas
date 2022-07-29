@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dankornas, I am a Machine Learning Engineer / Technical Lead
 - 👀 I’m interested in automating the boring stuff with Machine Learning & Python
 - 🌱 I’m continuing to learn and advance my skills in AI, especially NLP.   
-- 💞️ I’m looking to collaborate on Open Source Software as well as anything else related to AI
 - 📫 How to reach me:  
 
   ![Twitter Follow](https://img.shields.io/twitter/follow/DanKornas?style=social)

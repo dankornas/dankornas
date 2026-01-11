@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dankornas, I am a Machine Learning Engineer / Technical Lead
+- 👋 Hi, I’m @dankornas, I am a AI/ML Engineer
 - 👀 I’m interested in automating the boring stuff with Machine Learning & Python
 - 🌱 I’m continuing to learn and advance my skills in AI, especially NLP.   
 - 📫 How to reach me:  
